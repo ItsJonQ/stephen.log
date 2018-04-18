@@ -1,0 +1,18 @@
+{
+  "name": "stephen.log",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/stephen.js",
+  "umd:main": "dist/stephen.umd.js",
+  "module": "dist/stephen.m.js",
+  "source": "src/index.js",
+  "scripts": {
+    "build": "babel ./src --out-dir ./dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon Quach <hello@jonquach.com> (https://jonquach.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "6.26.0"
+  }
+}
