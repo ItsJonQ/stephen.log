@@ -5,8 +5,7 @@
   "main": "dist/index.js",
   "source": "src/index.js",
   "scripts": {
-    "build": "babel ./src --out-dir ./dist",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "babel ./src --out-dir ./dist"
   },
   "author": "Jon Quach <hello@jonquach.com> (https://jonquach.com)",
   "license": "MIT",
