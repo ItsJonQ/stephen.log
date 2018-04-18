@@ -1,4 +1,4 @@
-# 🌈 stephen.log
+# 🌈 stephen.log [![npm version](https://badge.fury.io/js/stephen.log.svg)](https://badge.fury.io/js/stephen.log)
 
 > It's like `console.log`, but with Stephen.
 
