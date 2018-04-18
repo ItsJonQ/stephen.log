@@ -2,9 +2,7 @@
   "name": "stephen.log",
   "version": "0.0.1",
   "description": "",
-  "main": "dist/stephen.js",
-  "umd:main": "dist/stephen.umd.js",
-  "module": "dist/stephen.m.js",
+  "main": "dist/index.js",
   "source": "src/index.js",
   "scripts": {
     "build": "babel ./src --out-dir ./dist",
