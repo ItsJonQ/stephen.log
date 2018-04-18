@@ -1,4 +1,4 @@
-# stephen.log
+# 🌈 stephen.log
 
 > It's like `console.log`, but with Stephen.
 
