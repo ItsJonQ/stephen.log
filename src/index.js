@@ -20,7 +20,7 @@ const methods = [
 ]
 
 const stephen = methods.reduce((Stephen, method) => {
-  Stephen[method] = (message) => console[method](`Stephen ${method}s: ${message}`)
+  Stephen[method] = (...args) => console[method](`Stephen ${method}s:`, ...args)
   return Stephen
 }, {})
 
